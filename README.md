@@ -1,7 +1,7 @@
 # bugbountyTipsTicks
 <br><br><br>
 
-### Pre-Account Takeover using OAuth Misconfiguration
+### * Pre-Account Takeover using OAuth Misconfiguration
 ```
 1. Attacker creates an account on a.target.com using OAuth.
 2. Attacker changed his/her email to victim email.
